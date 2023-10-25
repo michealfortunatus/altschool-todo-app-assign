@@ -1,0 +1,15 @@
+{
+  "name": "altschool-todo-app-assign",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "app"
+  ],
+  "author": "fortune",
+  "license": "ISC"
+}
